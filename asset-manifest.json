@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/router-example/static/js/main.b4fc6621.js",
+    "index.html": "/router-example/index.html",
+    "main.b4fc6621.js.map": "/router-example/static/js/main.b4fc6621.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b4fc6621.js"
+  ]
+}
